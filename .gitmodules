@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "RcmdrPlugin.EZR"]
+	path = RcmdrPlugin.EZR
+	url = https://github.com/cran/RcmdrPlugin.EZR
+	shallow = true
+	registered = true
